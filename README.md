@@ -109,6 +109,7 @@ When I build software, I strive for:
 
 > *"Technology evolves every day. Strong engineering principles last a lifetime."*
 </details>
+
 ---
 
 # 🤝 Let's Connect
